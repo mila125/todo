@@ -1,0 +1,3 @@
+PC-304\SQLEXPRESS(hasta aqui) (SQL Server 16.0.1000-PC-304\Usuario-304)
+(En mi casa sera otro)
+sacar la fila Location tanto del origen cómo del archivo .CSV
